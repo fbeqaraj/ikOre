@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 group-title="ATV",ATV HEVC0
 http://IHCoYpMG70djySNwuFQve5.green.onerunthisway.me/live/sun.php?z=111&u=oQrgiUwjxu&s=6166222709&id=84489&t=live&f=ts
 #EXTINF:-1 group-title="ATV",ATV HEVC1
@@ -232,14 +233,16 @@ https://ssh101.bozztv.com/ssh101/rtvkohahd/chunks.m3u8
 #EXTINF:-1 group-title="IslameWeb",Al Sunnah Madinah
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
 #EXTINF:-1 group-title="IslameWeb",Al Sunnah Madinah YT
-https://ythls.info-f9d.workers.dev/channel/UCROKYPep-UuODNwyipe6JMw.m3u8#EXTINF:-1 group-title="IslameWeb",Quran TV Makkah
+https://ythls.info-f9d.workers.dev/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
+#EXTINF:-1 group-title="IslameWeb",Quran TV Makkah
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8
 #EXTINF:-1 group-title="IslameWeb",Quran TV Makkah
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 group-title="IslameWeb",Quran TV Makkah YT
 https://ythls.info-f9d.workers.dev/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 #EXTINF:-1 group-title="IslameWeb",Quran TV Makkah YT.v1
-https://ythls.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8#EXTINF:-1 group-title="IslameWeb",Takbeer TV
+https://ythls.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
+#EXTINF:-1 group-title="IslameWeb",Takbeer TV
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 group-title="IslameWeb",Al Istiqama TV
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
@@ -318,7 +321,8 @@ https://5a1178b42cc03.streamlock.net/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 group-title="IslameWeb",RTV Ahireti
 http://62.210.188.65:8181/hls/ahireti/stream.m3u8
 #EXTINF:-1 group-title="IslameWeb",Al Quran Ruqya
-https://ythls.info-f9d.workers.dev/channel/UC2SoO31MFfwqNgGGZSkTZcg.m3u8#EXTINF:-1 group-title="MuzikaWeb",Flutura TV
+https://ythls.info-f9d.workers.dev/channel/UC2SoO31MFfwqNgGGZSkTZcg.m3u8
+#EXTINF:-1 group-title="MuzikaWeb",Flutura TV
 http://host.serveri.stream:8080/fluturakja/tv/164
 #EXTINF:-1 group-title="MuzikaWeb",Flutura TV
 http://host.serveri.stream:8080/televizioni/flutura/164
@@ -357,27 +361,32 @@ https://protokolldns.xyz/dritaweb2023ds/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ShqiptareWeb",TV DIELLI
 http://stream.tvdielli.com:8081/dielli/index.m3u8
 #EXTINF:-1 group-title="ShqiptareWeb",Al Jazeera English YT
-https://ythls.info-f9d.workers.dev/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8#EXTINF:-1 group-title="ShqiptareWeb",Russian Today English
+https://ythls.info-f9d.workers.dev/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
+#EXTINF:-1 group-title="ShqiptareWeb",Russian Today English
 https://rumble.com/live-hls-dvr/2td0fs/playlist.m3u8
 #EXTINF:-1 group-title="ShqiptareWeb",Russian Today English
 https://cdn.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
 #EXTINF:-1 group-title="ShqiptareWeb",Russian Today English
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="ShqiptareWeb",WION TV YT 
-https://yt.info-f9d.workers.dev/channel/UC_gUM8rL-Lrg6O3adPW9K1g.m3u8#EXTINF:-1 group-title="ShqiptareWeb",TRT WORLD NEWS YT 
-https://yt.info-f9d.workers.dev/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8#EXTINF:-1 group-title="ShqiptareWeb",CNN TURKIYE NEWS YT 
+https://yt.info-f9d.workers.dev/channel/UC_gUM8rL-Lrg6O3adPW9K1g.m3u8
+#EXTINF:-1 group-title="ShqiptareWeb",TRT WORLD NEWS YT 
+https://yt.info-f9d.workers.dev/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
+#EXTINF:-1 group-title="ShqiptareWeb",CNN TURKIYE NEWS YT 
 https://yt.info-f9d.workers.dev/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 #EXTINF:-1 group-title="ShqiptareWeb",Al Saudiya w
 https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
 #EXTINF:-1 group-title="ShqiptareWeb",Al Saudiya YT
 https://ythls.info-f9d.workers.dev/channel/UC2mWeEHv9IY6i74okFMkGPw.m3u8
 #EXTINF:-1 group-title="ShqiptareWeb",NAT GEO WILD YT 
-https://ythls.info-f9d.workers.dev/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8#EXTINF:-1 group-title="ShqiptareWeb",Relaxing Nature In 4K YT
+https://ythls.info-f9d.workers.dev/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
+#EXTINF:-1 group-title="ShqiptareWeb",Relaxing Nature In 4K YT
 https://ythls.info-f9d.workers.dev/channel/UCJduEGukjOXzTW4jfkQ-ihw.m3u8
 #EXTINF:-1 group-title="ShqiptareWeb",Star Kentrikis Elladas dailymotion
 https://dm.info-f9d.workers.dev/?id=xqjey2.m3u8
 #EXTINF:-1 group-title="ShqiptareWeb", Twitch test2
-https://player.twitch.tv/?channel=topnewsal#EXTINF:-1 group-title="RAIv.1",Rai 1 HD 
+https://player.twitch.tv/?channel=topnewsal
+#EXTINF:-1 group-title="RAIv.1",Rai 1 HD 
 http://85.209.248.7:8080/Rai1HD/index.m3u8
 #EXTINF:-1 group-title="RAIv.1",Rai 2 HD
 http://85.209.248.7:8080/Rai2HD/index.m3u8
@@ -1221,7 +1230,8 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i2)/
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="Mediaset",Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnea=st=1639498341~exp=1702463400~acl=/*~hmac=c3c4c2de19ff0df4b4bb20587ce59af5232eadab2995f445b7506525413805dd
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="Mediaset",Sky TG24 YT
-https://ythls.info-f9d.workers.dev/channel/UCz6E3lF72mb6uoJ-mOlNo2A.m3u8#EXTINF:-1 tvg-id="TGCom24.it" tvg-chno="51" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png" group-title="Mediaset",TGCOM 24
+https://ythls.info-f9d.workers.dev/channel/UCz6E3lF72mb6uoJ-mOlNo2A.m3u8
+#EXTINF:-1 tvg-id="TGCom24.it" tvg-chno="51" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png" group-title="Mediaset",TGCOM 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="54" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raistoria.png" group-title="Rai",Rai Storia
@@ -1799,7 +1809,8 @@ https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="SAMSUNG-IT" tvg-id="EuronewsItalian.fr",Euronews Italiano (720p)
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="SAMSUNG-IT" tvg-id="EuronewsItalian.fr",Euronews Italiano YT
-https://ythls.info-f9d.workers.dev/channel/UC1mX9vuLOYf8fhaXS_KcDRg.m3u8#EXTINF:-1 group-title="SAMSUNG-IT" tvg-id="FailArmyItaly.it",Failarmy
+https://ythls.info-f9d.workers.dev/channel/UC1mX9vuLOYf8fhaXS_KcDRg.m3u8
+#EXTINF:-1 group-title="SAMSUNG-IT" tvg-id="FailArmyItaly.it",Failarmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="SAMSUNG-IT" tvg-id="FashionTVEurope.fr",Fashion TV (Italy) (1080p)
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
@@ -1808,7 +1819,8 @@ https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="SAMSUNG-IT" tvg-id="ItalianFishingTV.it",Italian Fishing TV
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="SAMSUNG-IT" tvg-id="ItalianFishingTV.it",Italian Fishing TV YT
-https://ythls.info-f9d.workers.dev/channel/UCBSWr_ifrBMjj5rGBqwsUZQ.m3u8#EXTINF:-1 group-title="SAMSUNG-IT" tvg-id="MondoKids.it",Mondo TV Kids
+https://ythls.info-f9d.workers.dev/channel/UCBSWr_ifrBMjj5rGBqwsUZQ.m3u8
+#EXTINF:-1 group-title="SAMSUNG-IT" tvg-id="MondoKids.it",Mondo TV Kids
 https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="SAMSUNG-IT" tvg-id="MuseumTV.fr",Museum TV [Geo-blocked]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8
